@@ -1,11 +1,6 @@
 #include <stdio.h>
-void helloworld(){
-	printf("Hello World!\n");
-}
-
-
 int main(void) {
-	helloworld();
+	printf("This is merged\n");
 	return 0;
 
 }
