@@ -2,7 +2,7 @@
 
 int main(void) {
 	printf("Hello World!\n");
-	printf("This is master\n");
+	printf("This is branch2\n");
 	return 0;
 
 }
