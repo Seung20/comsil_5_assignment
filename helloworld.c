@@ -1,9 +1,10 @@
 #include <stdio.h>
+void Hello(void){
+	printf("Hello\n");
+}
 
 int main(void) {
-	printf("Hello World!\n");
-	printf("This is branch1\n");	
-	printf("Hi\n");
+	Hello();
 	return 0;
 
 }
