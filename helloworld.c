@@ -1,8 +1,4 @@
-#include <stdio.h>
-int main(void) {
-	printf("This is merged\n");
+#include<stdio.h>
+int main(){
 	return 0;
-
 }
-
-
