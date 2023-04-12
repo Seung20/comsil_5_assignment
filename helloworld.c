@@ -1,10 +1,7 @@
 #include <stdio.h>
-void Hello(void){
-	printf("Hello\n");
-}
 
 int main(void) {
-	Hello();
+	print("Hello\n");
 	return 0;
 
 }
