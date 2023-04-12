@@ -1,8 +1,13 @@
 #include <stdio.h>
+void helloworld(){
+	printf("Hello World!\n");
+}
+
 
 int main(void) {
-	printf("Hello World!\n");
-	printf("This is master\n");
+	helloworld();
 	return 0;
 
 }
+
+
