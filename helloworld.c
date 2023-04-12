@@ -2,9 +2,9 @@
 
 int main(void) {
 	printf("Good morning guys!\n");
+	printf("This is branch2\n");
 	printf("Hi\n");
 	printf("Hello World!\n");
-	printf("This is branch3\n");
 	return 0;
 
 }
