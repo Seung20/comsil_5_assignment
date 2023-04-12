@@ -4,6 +4,7 @@ int main(void) {
 	printf("Good morning guys!\n");
 	printf("This is branch2\n");
 	printf("Hi\n");
+	printf("Thank u\n");
 	printf("Hello World!\n");
 	return 0;
 }
